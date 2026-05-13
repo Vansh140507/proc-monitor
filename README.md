@@ -77,7 +77,7 @@ Press 'q' to stop...
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/yourusername/proc-monitor.git
+git clone https://github.com/Vansh140507/proc-monitor.git
 cd proc-monitor
 
 
