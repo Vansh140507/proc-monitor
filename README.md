@@ -48,7 +48,8 @@ CPU: 23.4%   RAM: 54.2%
 
 -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- 
 Press 'q' to stop...
-##🛠️ Built with
+
+## 🛠️ Built with
  - Python 3 – the language
 
  - psutil – cross‑platform system library
